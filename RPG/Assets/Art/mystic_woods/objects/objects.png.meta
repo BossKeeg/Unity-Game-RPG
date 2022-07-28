@@ -129,6 +129,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -138,8 +139,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -964,6 +965,42 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      objects_11: 2269949439249822484
+      objects_20: -6580861909127892675
+      objects_22: 7206194005228167239
+      objects_1: 318953615281452700
+      objects_9: -93750458980389090
+      objects_30: 1423833454339779461
+      objects_32: 2197855871317943228
+      objects_34: -5884573130030058871
+      objects_25: 8753186556605219898
+      objects_26: -8841936248928892492
+      objects_24: 5849325189442884660
+      objects_27: 7495320969501026803
+      objects_3: -4430392651179603617
+      objects_18: -3201709878794754465
+      objects_16: -3727842135710763035
+      objects_2: 8333231276030249781
+      objects_21: -6883905864151536645
+      objects_15: -5843391103799036864
+      objects_8: 1336440320741484319
+      objects_10: 4455232240493665095
+      objects_14: -2069660456029034469
+      objects_31: 4698315425400886581
+      objects_13: 4444980147945960928
+      objects_33: 741922582067912797
+      objects_19: 6210789413000989635
+      objects_17: -6050296909894318094
+      objects_28: 2002165265138813586
+      objects_29: 5197925540072060383
+      objects_23: -4922617476772045510
+      objects_5: -3276687688264177478
+      objects_0: 1753205982242350755
+      objects_12: 6639657697291588988
+      objects_4: 2654447934904345190
+      objects_6: 5069650035751226587
+      objects_7: -9053378900703536071
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
